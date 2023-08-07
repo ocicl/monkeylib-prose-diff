@@ -2,9 +2,8 @@
 
 Diff program optimized for comparing text files containing prose.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-prose-diff.git   |
-| commit  | 9e39380  |
-| systems | monkeylib-prose-diff |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-prose-diff.git |
+| commit  | 9e39380                                                    |
+| systems | com.gigamonkeys.prose-diff                                 |
+|---------+------------------------------------------------------------|
